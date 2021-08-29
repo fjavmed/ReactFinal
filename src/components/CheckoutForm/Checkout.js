@@ -114,7 +114,7 @@ export default function Checkout() {
                   Gracias por comprar
                 </Typography>
                 <Typography variant="subtitle1">
-                  Su orden ha sido generada con el identificador #{orderID}. Si quiere conocer el estado de su orden, por favor contactenos e indiquenos el identificador.
+                  Su orden ha sido generada con el identificador #{orderID}. Si quiere conocer el estado de su orden, por favor contáctenos e indíquenos el identificador.
                 </Typography>
               </React.Fragment>
             ) : (
